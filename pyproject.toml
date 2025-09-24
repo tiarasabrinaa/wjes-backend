@@ -1,0 +1,23 @@
+[project]
+name = "wjes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp",
+    "docling",
+    "fastapi",
+    "httpx",
+    "loguru",
+    "pdf2image",
+    "pydantic",
+    "pypdfium2",
+    "python-collection",
+    "python-dotenv",
+    "python-multipart",
+    "python-poppler",
+    "requests",
+    "tqdm",
+    "uvicorn",
+]

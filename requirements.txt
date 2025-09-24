@@ -1,0 +1,16 @@
+httpx
+fastapi
+loguru
+pydantic
+python-dotenv
+tqdm
+uvicorn
+python-collection
+docling
+aiofiles
+Pillow
+scikit-learn
+numpy
+pickle-mixin
+pandas
+lightgbm
